@@ -1,8 +1,6 @@
 import matplotlib.pyplot as plt
 from math import log, factorial as fct
 
-""" Warning: Uncomment this line below if you are going to runa .ipynb file"""
-#%matplotlib inline
 class Bigo():
     def __init__(self):
         #Create a figure and axes.
@@ -49,12 +47,3 @@ bigo.draw_graphs()
 bigo.show_tbl()
 #Draw plot
 bigo.draw_plot()
-
-
-
-
-
-
-
-
-
